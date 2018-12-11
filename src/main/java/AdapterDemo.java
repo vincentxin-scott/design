@@ -23,6 +23,9 @@ interface DualPin{
     public void electrify(int l,int n);
 }
 
+
+
+
 /**
  * 墙上的是的三插孔的标准通电插口，电视实现的是两口。
  */
