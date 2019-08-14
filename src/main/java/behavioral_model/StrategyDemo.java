@@ -1,3 +1,5 @@
+package behavioral_model;
+
 /**
  * 策略模式
  * Created by Vincentxin

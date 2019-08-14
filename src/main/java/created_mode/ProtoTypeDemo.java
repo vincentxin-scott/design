@@ -1,3 +1,5 @@
+package created_mode;
+
 /**
  * 通过打飞机游戏来学习原型模式
  *

@@ -1,3 +1,5 @@
+package structured_mode;
+
 /**
  * 适配器模式
  * @Author Vincentxin

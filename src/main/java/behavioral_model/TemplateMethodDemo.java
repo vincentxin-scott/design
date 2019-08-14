@@ -1,3 +1,5 @@
+package behavioral_model;
+
 /**
  * 模板方法
  * Created by Vincentxin

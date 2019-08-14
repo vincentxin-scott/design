@@ -1,3 +1,5 @@
+package behavioral_model;
+
 /**
  * 状态模式
  * Created by Vincentxin
